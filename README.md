@@ -18,6 +18,9 @@ StudyBuddy-AI is an AI-powered study assistant that helps users interact with th
 
 # Workflow of StudyBuddy-AI
 ## User Uploads a Document
+<img width="1912" height="800" alt="Screenshot 2025-08-12 163757" src="https://github.com/user-attachments/assets/9d3f2302-95ee-47df-83b6-83e796238710" />
+
+<img width="1906" height="1003" alt="Screenshot 2025-08-12 164004" src="https://github.com/user-attachments/assets/50b08059-7a46-42be-8cc7-1641197cab7d" />
 
 The user uploads a PDF study file.
 
