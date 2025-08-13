@@ -3,8 +3,8 @@ StudyBuddy AI is a Streamlit app that lets you upload PDF/DOCX/TXT files, index 
 
 StudyBuddy-AI is an AI-powered study assistant that helps users interact with their uploaded study materials in a conversational way. Designed for students, educators, and professionals, it leverages Google Gemini AI for generating accurate, context-aware answers, summaries, and quizzes directly from the uploaded documents.
 
-Key Features
-📂 Upload & Process Files – Upload PDF study materials to get instant AI-driven insights.
+# Key Features
+📂 Upload & Process Files - Upload PDF study materials to get instant AI-driven insights.
 
 💬 Q&A Chat Interface – Ask any question from your uploaded content and get precise, context-rich answers.
 
@@ -16,37 +16,37 @@ Key Features
 
 ⚡ Powered by Gemini AI – Ensures natural, accurate, and relevant responses.
 
-Workflow of StudyBuddy-AI
-User Uploads a Document
+# Workflow of StudyBuddy-AI
+# User Uploads a Document
 
 The user uploads a PDF study file.
 
 The file is processed using pdfplumber to extract clean text.
 
-Text Processing & Storage
+# Text Processing & Storage
 
 Extracted text is split into chunks for better AI understanding.
 
 The chunks are stored temporarily in memory for instant retrieval.
 
-User Interaction (Chat)
+# User Interaction (Chat)
 
 Users ask questions in the right-side chat interface.
 
 Gemini AI searches relevant chunks and generates an answer.
 
-Summarization
+# Summarization
 
 Users click "Summarize" to instantly get a condensed summary of the uploaded content.
 
 No input required — AI generates the summary automatically.
 
-Quiz Generation
+# Quiz Generation
 
 The "Generate Quiz" button creates multiple-choice or short-answer questions from the uploaded document.
 
 Ideal for self-assessment.
 
-Display Results
+# Display Results
 
 All responses (Q&A, summary, quiz) are shown in the chat panel with a conversational flow.
